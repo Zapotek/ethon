@@ -6,6 +6,8 @@
 
 * Support optional escaping of params.
   ([Tasos Laskos](https://github.com/zapotek)
+* `Easy::Mirror`: Reduced object allocations and method calls during info handling.
+  ([Tasos Laskos](https://github.com/zapotek)
 
 ## 0.7.4
 
